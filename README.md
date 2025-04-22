@@ -29,14 +29,14 @@ To run this project locally:
    cd your-repo-name
 3. Open index.html in your browser, or use Live Server (if you're using VS Code).
 
-📌 Notes
+## 📌 Notes
 This project is intended for educational and personal portfolio use only.
 
 All design and branding elements belong to Dropbox.
 
 No commercial use is intended or permitted.
 
-📫 Contact
+## 📫 Contact
 Want to connect or see more of my work?
 
 LinkedIn: https://www.linkedin.com/in/aniket-dalvi-318913217/
