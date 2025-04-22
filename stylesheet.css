@@ -1,0 +1,178 @@
+@import url(https://db.onlinewebfonts.com/c/0a5fbb91dc4a457f5945dca11d44517d?family=Atlas+Grotesk+Web+Regular+Regular); 
+
+@font-face {
+    font-family: Sharp Grotesk;
+    src: url('Sharp_Grotesk_23/SharpGroteskDBCyrBook23-vflX-NIwB.otf') format('opentype'); 
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #1e1919;
+    color: #f7f5f2;
+}
+
+
+/* Navbar */
+nav .navbar-nav .nav-link{
+    font-family: Atlas Grotesk Web, sans-serif;
+    color: #1e1919;
+    font-size: 15px;
+}
+nav .navbar-nav .nav-link:hover{
+    color: #0d6efd;
+}
+nav #font_dark{
+    font-weight: 600;
+}
+
+nav .navbar-brand{
+    max-width: fit-content;
+}
+nav a img.img_logo{
+    width: 40px; 
+    height: 40px;
+    padding: 0.3rem;
+}
+
+
+/* Section - Main_1 */
+.main_1{
+    margin-top: 3.7rem;
+}   
+.main_1 h2{
+    font-family: Sharp Grotesk;
+    font-weight: 400;
+    font-size: 2.5rem;
+    
+}
+.main_1 p{
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+
+.blue_btn button{
+    border-radius: 1rem;
+    font-weight: 700;
+    background-color: #3984ff;
+    color: #1e1919;
+}
+.blue_btn button:hover{
+    background-color: rgb(83, 144, 241);
+    color: #1e1919;
+}
+.main_1 form input{
+    height:3rem;
+    background-color: transparent;
+    border: 1px solid #736c64;
+    color: #fff;
+}
+
+.main_1 form button{
+    border: 2px solid #f7f5f2;
+    border-radius: 0.7rem;
+    font-weight: 700;
+    background-color: transparent;
+    color: #f7f5f2;
+}
+.main_1 form button:hover{
+    border: 2px solid #f7f5f2;
+    background-color: #ffffff29;
+}
+
+
+/* Section - Main_3*/
+.main_3 h2{
+    font-family: Sharp Grotesk;
+}
+
+.main_3 .row{
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+.main_3 h5{
+    font-weight: 600;
+}
+
+
+/* Sction - Main_4 */
+.main_4 h2{
+    font-family: Sharp Grotesk;
+}
+.main_4 p{
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+
+
+/* Section - Main_6 */
+.main_6 h2{
+    font-family: Sharp Grotesk;
+}
+.main_6 p{
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+.main_6 .card{
+    background-color: #2b2929;
+    color: #f7f5f2;
+}
+
+
+/* Section - Main_7 */
+.main_7 h2{
+    font-family: Sharp Grotesk;
+}
+.main_7 p{
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+
+
+/* Setion - main_8 */
+.main_8{
+    background-color: #242121;
+    color: #f7f5f2;
+}
+.main_8 p{
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+.main_8 p a{
+    color: #f7f5f2;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+
+.main_8 .img_white img{
+    padding: 4.5rem 5rem;
+    width: 100%;
+}
+
+
+/* Section - Main_9 */
+.main_9 h2{
+    font-family: Sharp Grotesk;
+}
+
+
+/* Section - Main_10 */
+footer{
+    background-color: #000000;
+}
+footer h5{
+    margin-bottom: 1.5rem;
+}
+footer a{
+    color: #f7f5f2;
+    font-size: 14px;
+    text-decoration: none;
+    font-family: Atlas Grotesk Web, sans-serif;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+
+footer hr{
+    width: 12%;
+}
