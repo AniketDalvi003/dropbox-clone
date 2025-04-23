@@ -3,7 +3,7 @@
 This is a front-end clone of the official [Dropbox](https://www.dropbox.com/) website, built for educational and portfolio purposes. The project aims to replicate the layout, design, and user interface of the Dropbox homepage using modern web development technologies.
 
 ## 🔗 Live Demo
-[View the Live Site](https://aniketdalvi003.github.io/dropbox-clone/)
+[Click here to view the live site](https://aniketdalvi003.github.io/dropbox-clone/)
 
 ## ✨ Features
 - Fully responsive layout
